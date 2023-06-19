@@ -51,7 +51,7 @@
 
 [[conference]]
   name = "Home"
-  url = ""
+  url = "."
   weight = 10
 
 [[conference]]
@@ -110,5 +110,5 @@
 
 [[conference]]
   name = "ABZ Series"
-  url = ""
+  url = "../.."
   weight = 90

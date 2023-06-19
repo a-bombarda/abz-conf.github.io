@@ -4,6 +4,8 @@
 {{ $has_logo := true }}
 {{ $logo := (partial "functions/get_logo" (dict "constraint" "max_height" "size" 70)) }}
 
+{{ $root_site := findRE "site/.{4}" $current_page }}
+
 <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
   <div class="container">
 
@@ -42,7 +44,8 @@
           </a>
           <div class="dropdown-menu">
             {{ range .Children }}
-              <a class="dropdown-item" href="{{ .URL | relLangURL }}"{{ if $.IsHome }} data-target="{{ .URL }}"{{ end }}>
+			{{ $destination := print (index $root_site 0) "/" .URL}}
+              <a class="dropdown-item" href="{{ $destination | relLangURL }}"{{ if $.IsHome }} data-target="{{ .URL }}"{{ end }}>
                 {{- .Pre -}}<span>{{ .Name | safeHTML }}</span>{{- .Post -}}
               </a>
             {{ end }}
@@ -72,10 +75,11 @@
           {{ end }}
           {{ $is_same_page = eq (path.Dir $current_page.RelPermalink) (path.Dir ($hash_removed|relLangURL)) }}
         {{ end }}
+		{{ $destination := print (index $root_site 0) "/" .URL}}
 
         <li class="nav-item">
-          <a class="nav-link {{if $is_link_in_current_path }} active{{end}}" href="{{.URL | relLangURL}}"{{ if and $is_widget_page $is_same_page }} data-target="{{$hash}}"{{ end }}{{ ($.Scratch.Get "target") | safeHTMLAttr }}>
-            {{- .Pre -}}<span>{{ .Name | safeHTML }}</span>{{- .Post -}}
+          <a class="nav-link {{if $is_link_in_current_path }} active{{end}}" href="{{ $destination | relLangURL}}"{{ if and $is_widget_page $is_same_page }} data-target="{{$hash}}"{{ end }}{{ ($.Scratch.Get "target") | safeHTMLAttr }}>
+            {{- .Pre -}}<span>{{ .Name | safeHTML }} </span>{{- .Post -}}
           </a>
         </li>
 
