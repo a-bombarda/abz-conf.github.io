@@ -27,17 +27,6 @@ This forum is a good opportunity for PhD students to
 - enable PhD students to interact with other PhD students and to stimulate exchange of ideas suggestions and experiences among participants,
 - provide PhD students an opportunity to present, share and discuss their research in a constructive and critical atmosphere.
 
-The ABZ 2024 Doctoral Symposium will be part of the 10th ABZ 2024 International Conference on Rigorous State Based Methods in Bergamo, Italy.
-
-## Important Dates
-
-|          |         |
-| -------- | ------- |
-| **Paper submission:**  | February 24, 2024    |
-| **Notification:** | April 6, 2024    |
-| **Final version:**    | April 20, 2024    |
-| **ABZ 2024 Conference (Bergamo, Italy)**  | June 26-28, 2024    |
-
 ## Submissions
 
 We seek PhD students who have either determined the direction of their thesis research (probably with some preliminary results already published), but who still have substantial work to complete, or PhD student participants who are in the early stages of their dissertations. It is not required to have a paper accepted for the main conference in order to participate to the ABZ 2024 Doctoral Symposium.
