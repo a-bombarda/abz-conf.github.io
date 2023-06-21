@@ -10,7 +10,7 @@
   <div class="container">
 
     <div class="d-none d-lg-inline-flex">
-      <a class="navbar-brand" href="{{ " /" | relLangURL }}">
+      <a class="navbar-brand" href="{{ "/" | relLangURL }}">
         <img src="{{ $logo }}" alt="{{ site.Title }}">
       </a>
     </div>
@@ -23,7 +23,7 @@
     {{ end }}
 
     <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-      <a class="navbar-brand" href="{{ " /" | relLangURL }}">
+      <a class="navbar-brand" href="{{ "/" | relLangURL }}">
         <img src="{{ $logo }}" alt="{{ site.Title }}">
       </a>
     </div>
@@ -116,10 +116,9 @@
       </ul>
 
       {{ if site.Menus.skyline }}
-      {{ $skyline_svg := (partial "functions/get_skyline" ) }}
 
       <div class="nav-skyline">
-        <img src="{{$skyline_svg}}" width="300pt" height="80pt">
+        <a href="{{ .Params.skyline.url }}"><img src="{{  (printf "/img/%s" .Params.skyline.image) | relURL   }}" width="300pt" height="80pt"></a>
       </div>
       {{ end }}
     </div><!-- /.navbar-collapse -->

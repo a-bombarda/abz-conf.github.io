@@ -10,6 +10,10 @@ editable: false
 header:
   caption: ""
   image: ""
+
+skyline: 
+  image: "bergamo-skyline.svg"
+  url: "https://en.wikipedia.org/wiki/Bergamo"
 ---
 
 ## Keynotes

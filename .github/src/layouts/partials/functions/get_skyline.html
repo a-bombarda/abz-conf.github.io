@@ -1,4 +1,0 @@
-{{/* Check for valid site config. */}}
-{{ if not site.Params.skyline }}{{errorf "'skyline' field missing from `params.toml`!"}}{{end}}
-
-{{ return site.Params.skyline }}

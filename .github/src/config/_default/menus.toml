@@ -110,7 +110,7 @@
 
 [[conference]]
   name = "ABZ Series"
-  url = "../.."
+  url = "../../events"
   weight = 90
 
 [[skyline]]

@@ -10,6 +10,10 @@ editable: false
 header:
   caption: ""
   image: ""
+
+skyline: 
+  image: "bergamo-skyline.svg"
+  url: "https://en.wikipedia.org/wiki/Bergamo"
 ---
 
 The ABZ conference is dedicated to the cross-fertilization of state-based and machine-based formal methods, like Abstract State Machines (ASM), Alloy, B, TLA, VDM and Z, that share a common conceptual foundation and are widely used in both academia and industry for the design and analysis of hardware and software systems. The conference aims for a vital exchange of knowledge and experience among the research communities around different formal methods.
