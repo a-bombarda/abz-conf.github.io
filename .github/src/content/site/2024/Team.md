@@ -18,10 +18,10 @@ skyline:
 
 ## Organization 
 
-### Conference Chairs
+### Program Chairs
 
-* [TBA]()
-* [TBA]()
+* [Elvinia Riccobene, University of Milano, Milano, Italy](https://riccobene.di.unimi.it/)
+* [Michael Leuschel, Heinrich-Heine-Universität, Düsseldorf, Germany](https://www.cs.hhu.de/lehrstuehle-und-arbeitsgruppen/softwaretechnik-und-programmiersprachen/unser-team/team/leuschel)
 
 ### Case Study Chairs
 
@@ -31,14 +31,20 @@ skyline:
 ### Workshop/Tutorial Chairs
 
 * [Claudio Menghi, University of Bergamo, Bergamo, Italy](https://claudiomenghi.github.io/)
-* [TBA]()
+* [Alexander Raschke,Ulm University, Ulm, Germany](https://www.uni-ulm.de/in/sp/team/dr-alexander-raschke/)
 
 ### Sponsor Chair
 
 * [Claudio Menghi, University of Bergamo, Bergamo, Italy](https://claudiomenghi.github.io/)
 
-### Publicity Chair
+### Doctoral Symposium Chairs
 
+* [Philipp Körner, Heinrich-Heine-Universität, Düsseldorf, Germany](https://www.cs.hhu.de/lehrstuehle-und-arbeitsgruppen/softwaretechnik-und-programmiersprachen/unser-team/team/koerner)
+* [Chiara Braghin, University of Milano, Milano, Italy](https://www.unimi.it/it/ugov/person/chiara-braghin)
+
+### Social/Publicity Chair
+
+* [Atif Mashkoor, JKU Linz, Linz, Austria](https://www.jku.at/en/institute-of-software-systems-engineering/about-us/team/atif-mashkoor/)
 * [TBA]()
 
 ### Web Chairs
@@ -48,7 +54,11 @@ skyline:
 
 ### Local Chair
 
-* [TBA]()
+* [Patrizia Scandurra, University of Bergamo, Bergamo, Italy](https://cs.unibg.it/scandurra/)
+
+### Registration Chair
+
+* [Silvia Bonfanti, University of Bergamo, Bergamo, Italy](https://cs.unibg.it/bonfanti/)
 
 ## Program Committee
 

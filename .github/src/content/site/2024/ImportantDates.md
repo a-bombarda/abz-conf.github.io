@@ -24,28 +24,39 @@ All dates anywhere on earth
 
 |          |         |
 | -------- | ------- |
-| **Workshop proposal submission:**  | TBA    |
-| **Workshop notification:** | TBA    |
-| **Tutorial proposal submission:**    | TBA    |
+| **Workshop proposal submission:**  | December 01, 2023    |
+| **Workshop notification:** | December 15, 2023    |
+| **Tutorial proposal submission:**    | March 16, 2024    |
+
+### Case Study Track
+
+|          |         |
+| -------- | ------- |
+| **Abstract submission (optional):**  | February 3, 2024    |
+| **Paper submission:**  | February 10, 2024    |
+| **Notification:** |  April 6, 2024    |
+| **Final version:**    | April 20, 2024    |
 
 ### Main Track
 
 |          |         |
 | -------- | ------- |
-| **Paper submission:**  | TBA    |
-| **Notification:** | TBA    |
-| **Final version:**    | TBA    |
+| **Abstract submission (optional):**  | February 3, 2024    |
+| **Paper submission (including research/short/industry/journal-first papers):**  | February 10, 2024    |
+| **Notification:** |  April 6, 2024    |
+| **Final version:**    | April 20, 2024    |
 
 ### Doctoral Symposium
 
 |          |         |
 | -------- | ------- |
-| **Short paper submission:**  | TBA    |
-| **Notification:** | TBA    |
-| **Final version:**    | TBA    |
+| **Paper submission:**  | February 24, 2024    |
+| **Notification:** | April 6, 2024    |
+| **Final version:**    | April 20, 2024    |
 
 ### Conference
 
 |          |         |
 | -------- | ------- |
-| **ABZ 2024 Conference (Bergamo, Italy)**  | June 25-28, 2024    |
+| **Workshps and Tutorials (Bergamo, Italy)**  | June 25, 2024    |
+| **ABZ 2024 Conference (Bergamo, Italy)**  | June 26-28, 2024    |
