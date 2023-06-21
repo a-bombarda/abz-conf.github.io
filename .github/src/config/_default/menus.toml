@@ -112,3 +112,8 @@
   name = "ABZ Series"
   url = "../.."
   weight = 90
+
+[[skyline]]
+  name = "bergamo"
+  url = "../.."
+  weight = 100

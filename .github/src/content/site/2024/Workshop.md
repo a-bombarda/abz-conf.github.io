@@ -9,7 +9,7 @@ editable: false
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
-  image: "bergamo.png"
+  image: ""
 ---
 ## Workshops
 

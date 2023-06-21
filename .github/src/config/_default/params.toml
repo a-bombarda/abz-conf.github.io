@@ -46,6 +46,10 @@ favicon = "https://github.com/abz-conf/abz-conf.logo/raw/master/obj/favicon/48.p
 
 logo = "https://github.com/abz-conf/abz-conf.logo/raw/master/src/badge.svg"
 
+skyline ="https://github.com/mariolilliresearch/abz-conf.logo/raw/master/skyline/bergamo-skyline.svg"
+
+
+
 email = "ppaulweber@ppaulweber.com" # TODO
 
 phone = ""
