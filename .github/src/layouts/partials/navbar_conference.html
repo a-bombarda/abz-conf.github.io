@@ -20,6 +20,7 @@
       aria-controls="navbar" aria-expanded="false" aria-label="{{ i18n " toggle_navigation" }}">
       <span><i class="fas fa-bars"></i></span>
     </button>
+    
     {{ end }}
 
     <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
@@ -117,7 +118,7 @@
 
       {{ if site.Menus.skyline }}
       <div class="nav-skyline">
-        <a href="{{ .Params.skyline.url }}"><img src="{{  (printf "/img/%s" .Params.skyline.image) | relURL   }}" width="300pt" height="80pt"></a>
+        <a href="{{ .Params.skyline.url }}"><img src="{{  (printf "/img/%s" .Params.skyline.image) | relURL   }}" width="250pt" height="80pt"></a>
       </div>
       {{ end }}
     </div><!-- /.navbar-collapse -->
