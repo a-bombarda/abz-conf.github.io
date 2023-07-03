@@ -40,7 +40,8 @@
 
         {{ if .HasChildren }}
         <li class="nav-item dropdown">
-          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true">
+          {{ $destination := print (index $root_site 0) "/" .URL}}
+          <a href="{{ $destination | relLangURL }}" class="nav-link dropdown-toggle" aria-haspopup="true">
             {{- .Pre -}}<span>{{ .Name | safeHTML }}</span>{{- .Post -}}
             <span class="caret"></span>
           </a>
